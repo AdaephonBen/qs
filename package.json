@@ -39,7 +39,7 @@
         "evalmd": "^0.0.19",
         "for-each": "^0.3.3",
         "has-symbols": "^1.0.1",
-        "iconv-lite": "^0.4.24",
+        "iconv-lite": "^0.5.1",
         "mkdirp": "^0.5.1",
         "object-inspect": "^1.7.0",
         "qs-iconv": "^1.0.4",
